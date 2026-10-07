@@ -1,83 +1,149 @@
-<div align="center">
-
-![Kiran Kumar Ambati](./assets/hero-banner.svg)
-
 # Kiran Kumar Ambati
 
 ### Senior Executive Assistant · Executive Office Management · Operations
 
-**Hyderabad, India** · **11+ years of experience**
-
-![Executive Support](https://img.shields.io/badge/Executive%20Support-Portfolio-2DD4BF?style=for-the-badge&labelColor=0B1220)
-![Operations](https://img.shields.io/badge/Operations-MIS%20%26%20KPI-60A5FA?style=for-the-badge&labelColor=0B1220)
-![Advanced Excel](https://img.shields.io/badge/Advanced-Excel-A78BFA?style=for-the-badge&labelColor=0B1220)
-
-</div>
+📍 Hyderabad, India · 11+ years of professional experience
 
 ---
 
 ## 👋 Executive Profile
 
-Results-driven **Senior Executive Assistant & Operations Professional** with **11 years of experience** supporting senior management and C-Suite executives.
+Results-driven **Senior Executive Assistant & Operations Professional** with 11+ years of experience supporting senior management, leadership teams and C-Suite executives.
 
-I help leadership teams make operations **organized, visible, predictable and execution-focused** — covering calendar strategy, executive meetings, travel, MIS reporting, stakeholder coordination and follow-through.
+Experienced in executive calendar management, leadership meetings, travel coordination, MIS reporting, stakeholder communication, operational coordination, documentation and executive follow-through.
 
-## 📈 Portfolio Dashboard
+I help leadership teams make operations **organized, visible, predictable and execution-focused**.
 
-![Executive Operations Dashboard](./assets/executive-operations-dashboard.png)
+---
 
-> Metrics shown are fictional portfolio data created to demonstrate reporting capability.
+## 💼 Professional Experience
+
+### Neo Prism Solutions LLC
+**Senior Executive Assistant & Operations Coordinator**  
+*Dec 2023 – Jun 2026*
+
+- Supported Director-level staffing operations, client engagements and vendor coordination across US and India time zones.
+- Managed executive calendars, leadership meetings, quarterly reviews and executive offsites.
+- Prepared executive reports, dashboards and board-level presentations.
+- Coordinated domestic and international travel, itineraries and expense reconciliation.
+- Managed confidential executive communications and stakeholder coordination.
+- Coordinated onboarding, timesheets, payroll follow-ups and operational trackers.
+
+### Hathway Cable & Data Com Pvt. Ltd.
+**Senior Executive Assistant & Operations Coordinator**  
+*Aug 2021 – May 2023*
+
+- Provided executive and operational support across Hyderabad, Chennai and Bangalore.
+- Managed high-priority escalations, SLA tracking and regional operational activities.
+- Developed KPI dashboards, MIS reports and management performance reports.
+- Coordinated leadership visits, operational reviews and executive business meetings.
+- Managed vendor coordination, travel logistics and cross-functional follow-ups.
+- Supported process improvement and operational efficiency initiatives.
+
+### Reliance SMSL Ltd.
+**Sr. Executive Assistant**  
+*Sep 2018 – Jul 2021*
+
+- Supported leadership through executive communication, scheduling and operational coordination.
+- Coordinated events, travel, employee schedules and performance tracking.
+- Served as SPOC between customers, operations, sales and other functional teams.
+- Prepared productivity reports and tracked weekly, monthly and quarterly objectives.
+- Supported team performance, training and operational planning.
+
+### Hathway Cable & Data Com Pvt. Ltd.
+**L2 Sr. Executive Customer Support**  
+*Aug 2014 – Aug 2018*
+
+- Managed customer escalations and service operations.
+- Supported team performance monitoring and management reporting.
+- Coordinated root-cause analysis and process improvement activities.
+- Prepared operational metrics and performance reports for senior management.
+
+---
 
 ## 🧠 Executive Support Operating Model
 
-![Executive Support Workflow](./assets/executive-support-workflow.png)
-
 **Request → Prioritize → Coordinate → Execute → Report → Close**
+
+---
+
+## 📈 Portfolio Dashboard
+
+> Metrics shown in the portfolio are fictional/sanitized examples created for professional demonstration.
+
+---
 
 ## 🗂️ Featured Portfolio
 
 | Portfolio | Focus |
 |---|---|
-| 📌 [Executive Assistant Portfolio](./executive-assistant-portfolio) | Executive support operating model |
-| 📅 [Calendar Management](./executive-calendar-management) | Scheduling and prioritization |
-| ✈️ [Travel Management](./travel-management) | Itineraries and logistics |
-| 📊 [MIS Reporting](./mis-reporting-dashboard) | KPI and management reporting |
-| 📝 [Meeting Management](./executive-meeting-management) | Agenda, MOM and action tracking |
-| ⚙️ [Operations Management](./operations-management) | SLA, KPI and escalation tracking |
-| 📑 [Document Management](./document-management) | Records and version control |
-| 🔄 [Process Improvement](./process-improvement) | Workflow optimization |
-| ✉️ [Executive Communication](./executive-communication) | Professional correspondence |
-| 📗 [Advanced Excel](./advanced-excel-portfolio) | Excel and dashboard practice |
+| 📌 Executive Assistant Portfolio | Executive support operating model |
+| 📅 Calendar Management | Scheduling and prioritization |
+| ✈️ Travel Management | Itineraries and logistics |
+| 📊 MIS Reporting | KPI and management reporting |
+| 📝 Meeting Management | Agenda, MOM and action tracking |
+| ⚙️ Operations Management | SLA, KPI and escalation tracking |
+| 📑 Document Management | Records and version control |
+| 🔄 Process Improvement | Workflow optimization |
+| ✉️ Executive Communication | Professional correspondence |
+| 📗 Advanced Excel | Excel and dashboard practice |
+
+---
 
 ## 🛠️ Tools & Skills
 
-**Microsoft 365:** Excel · Word · PowerPoint · Outlook · Teams  
-**Collaboration:** Zoom · Google Workspace  
-**Operations:** MIS · KPI Tracking · SLA Monitoring · Vendor Coordination  
-**Executive Support:** Calendar · Meetings · Travel · Expenses · Documentation  
+**Microsoft 365:** Excel · Word · PowerPoint · Outlook · Teams
+
+**Collaboration:** Zoom · Google Workspace
+
+**Executive Support:** Calendar Management · Meeting Management · Travel Management · Expense Management · Documentation
+
+**Operations:** MIS · KPI Tracking · SLA Monitoring · Vendor Coordination · Escalation Management
+
 **Reporting:** Pivot Tables · VLOOKUP/XLOOKUP · Dashboards · Management Presentations
 
-## 🏆 Selected Highlights
+---
 
-- Improved executive meeting efficiency by **30%** through optimized scheduling workflows.
-- Coordinated leadership operations across **Hyderabad, Chennai and Bangalore**.
-- Developed KPI dashboards and MIS reporting frameworks.
+## 🏆 Selected Professional Highlights
+
+- Supported senior leadership and C-Suite executives across fast-paced operational environments.
+- Coordinated multi-location leadership operations across Hyderabad, Chennai and Bangalore.
+- Developed KPI dashboards and MIS reporting frameworks for management decision-making.
 - Supported domestic and international executive travel.
 - Managed confidential leadership communications and executive stakeholder coordination.
+- Coordinated meetings, MOMs, action trackers and leadership follow-ups.
 
-## 📊 Excel Dashboard
+---
 
-The portfolio includes **Kiran_Executive_Operations_Dashboard.xlsx** with dashboard, KPI data, task tracker and calendar planning sheets.
+## 📊 Portfolio Demonstrations
 
-## 🔐 Portfolio & Confidentiality
+The repositories in this profile demonstrate practical executive-office workflows including:
 
-All datasets, dashboards and templates are **fictional/sanitized examples** created for professional demonstration.
+**Calendar → Meetings → Communication → Travel → MIS → Documents → Operations → Process Improvement**
+
+All portfolio datasets, dashboards and templates are fictional/sanitized examples created for professional demonstration.
+
+---
+
+## 🎯 Career Focus
+
+Open to opportunities in:
+
+- Senior Executive Assistant
+- Executive Assistant
+- Executive Office / Executive Operations
+- C-Suite Support
+- Executive Operations Coordinator
+- Management / Leadership Support
+
+---
 
 ## 📫 Contact
 
-**Kiran Kumar Ambati**  
-📍 Hyderabad, Telangana, India  
-📧 **kiranat232@gmail.com**  
-📱 **809-996-0020**
+**Kiran Kumar Ambati**
 
-> Open to Executive Assistant, Senior Executive Assistant, Executive Office, Operations Coordinator and similar leadership-support opportunities.
+📍 Hyderabad, Telangana, India  
+📧 kiranat232@gmail.com  
+📱 809-996-0020
+
+---
