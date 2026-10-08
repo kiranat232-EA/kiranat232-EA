@@ -87,7 +87,7 @@ I help leadership teams make operations **organized, visible, predictable and ex
 | 📑 [Document Management](https://github.com/kiranat232-EA/executive-document-management) | Records and version control |
 | 🔄 [Process Improvement](https://github.com/kiranat232-EA/process-improvement) | Workflow optimization |
 | ✉️ [Executive Communication](https://github.com/kiranat232-EA/executive-communication-management) | Professional correspondence |
-| 📗 [Advanced Excel](https://github.com/kiranat232-EA/advanced-excel) | Excel and dashboard practice |
+| 📗 Advanced Excel | Excel, Pivot Tables, VLOOKUP/XLOOKUP & dashboard practice |
 | 💰 [Expense & Budget Management](https://github.com/kiranat232-EA/executive-expense-budget-management) | Expense tracking, budget control & variance analysis |
 
 ---
@@ -121,8 +121,7 @@ I help leadership teams make operations **organized, visible, predictable and ex
 
 The repositories in this profile demonstrate practical executive-office workflows including:
 
-**Calendar → Meetings → Communication → Travel → MIS → Documents → Operations → Process Improvement**
-
+**Calendar → Meetings → Communication → Travel → MIS → Documents → Operations → Process Improvement → Expense & Budget Management**
 All portfolio datasets, dashboards and templates are fictional/sanitized examples created for professional demonstration.
 
 ---
