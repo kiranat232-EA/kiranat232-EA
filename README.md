@@ -88,6 +88,7 @@ I help leadership teams make operations **organized, visible, predictable and ex
 | 🔄 Process Improvement | Workflow optimization |
 | ✉️ Executive Communication | Professional correspondence |
 | 📗 Advanced Excel | Excel and dashboard practice |
+| 💰 Expense & Budget Management | Expense tracking, budget control & variance analysis |
 
 ---
 
