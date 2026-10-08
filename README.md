@@ -63,13 +63,9 @@ I help leadership teams make operations **organized, visible, predictable and ex
 
 ## 🧠 Executive Support Operating Model
 
+![Executive Support Operating Model](assets/Executive%20Support%20Operating%20Model.png)
+
 **Request → Prioritize → Coordinate → Execute → Report → Close**
-
----
-
-## 📈 Portfolio Dashboard
-![Executive Operations Dashboard](assets/executive-operations-dashboard.png)
-
 > Metrics shown in the portfolio are fictional/sanitized examples created for professional demonstration.
 
 ---
