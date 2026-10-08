@@ -68,6 +68,7 @@ I help leadership teams make operations **organized, visible, predictable and ex
 ---
 
 ## 📈 Portfolio Dashboard
+![Executive Operations Dashboard](assets/executive-operations-dashboard.png)
 
 > Metrics shown in the portfolio are fictional/sanitized examples created for professional demonstration.
 
