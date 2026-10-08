@@ -78,17 +78,17 @@ I help leadership teams make operations **organized, visible, predictable and ex
 
 | Portfolio | Focus |
 |---|---|
-| 📌 Executive Assistant Portfolio | Executive support operating model |
-| 📅 Calendar Management | Scheduling and prioritization |
-| ✈️ Travel Management | Itineraries and logistics |
-| 📊 MIS Reporting | KPI and management reporting |
-| 📝 Meeting Management | Agenda, MOM and action tracking |
-| ⚙️ Operations Management | SLA, KPI and escalation tracking |
-| 📑 Document Management | Records and version control |
-| 🔄 Process Improvement | Workflow optimization |
-| ✉️ Executive Communication | Professional correspondence |
-| 📗 Advanced Excel | Excel and dashboard practice |
-| 💰 Expense & Budget Management | Expense tracking, budget control & variance analysis |
+| 📌 [Executive Assistant Portfolio](https://github.com/kiranat232-EA/executive-assistant-portfolio) | Executive support operating model |
+| 📅 [Calendar Management](https://github.com/kiranat232-EA/executive-calendar-management) | Scheduling and prioritization |
+| ✈️ [Travel Management](https://github.com/kiranat232-EA/executive-travel-management) | Itineraries and logistics |
+| 📊 [MIS Reporting](https://github.com/kiranat232-EA/mis-reporting-dashboard) | KPI and management reporting |
+| 📝 [Meeting Management](https://github.com/kiranat232-EA/executive-meeting-management) | Agenda, MOM and action tracking |
+| ⚙️ [Operations Management](https://github.com/kiranat232-EA/executive-operations-management) | SLA, KPI and escalation tracking |
+| 📑 [Document Management](https://github.com/kiranat232-EA/executive-document-management) | Records and version control |
+| 🔄 [Process Improvement](https://github.com/kiranat232-EA/process-improvement) | Workflow optimization |
+| ✉️ [Executive Communication](https://github.com/kiranat232-EA/executive-communication-management) | Professional correspondence |
+| 📗 [Advanced Excel](https://github.com/kiranat232-EA/advanced-excel) | Excel and dashboard practice |
+| 💰 [Expense & Budget Management](https://github.com/kiranat232-EA/executive-expense-budget-management) | Expense tracking, budget control & variance analysis |
 
 ---
 
