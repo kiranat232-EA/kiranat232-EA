@@ -17,6 +17,17 @@ I help leadership teams make operations **organized, visible, predictable and ex
 ---
 
 ## 💼 Professional Experience
+### Jupiterglobal IT Private Limited
+**Senior Executive Assistant & Operations Coordinator**  
+*Aug 2026 – Present*
+
+- Provide direct executive support to the Managing Director and coordinate daily business priorities.
+- Develop and document Standard Operating Procedures (SOPs) for administrative and operational workflows.
+- Coordinate manpower allocation, task assignments, employee schedules, and operational follow-ups.
+- Prepare management reports, progress trackers, and operational updates.
+- Coordinate with HR, recruitment, operations teams, and internal stakeholders.
+- Track management action items, deadlines, and deliverables to support timely execution.
+- Support process improvement, documentation management, and executive-office operations.
 
 ### Neo Prism Solutions LLC
 **Senior Executive Assistant & Operations Coordinator**  
